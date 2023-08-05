@@ -26,4 +26,3 @@
   ```
 - `Movie_Data_Processing.ipynb` is the notebook of data processing.
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
-- For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
